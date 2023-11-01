@@ -1,0 +1,15 @@
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\bin\Debug\net7.0\WareHouse.Core.deps.json
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\bin\Debug\net7.0\WareHouse.Core.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\bin\Debug\net7.0\WareHouse.Core.pdb
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\bin\Debug\net7.0\WareHouse.Infrastructure.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\bin\Debug\net7.0\WareHouse.Infrastructure.pdb
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.csproj.AssemblyReference.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.AssemblyInfoInputs.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.AssemblyInfo.cs
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.csproj.CoreCompileInputs.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.csproj.CopyComplete
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\refint\WareHouse.Core.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\WareHouse.Core.pdb
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Core\obj\Debug\net7.0\ref\WareHouse.Core.dll

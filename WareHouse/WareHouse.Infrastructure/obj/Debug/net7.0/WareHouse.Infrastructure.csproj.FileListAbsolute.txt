@@ -1,0 +1,11 @@
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\bin\Debug\net7.0\WareHouse.Infrastructure.deps.json
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\bin\Debug\net7.0\WareHouse.Infrastructure.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\bin\Debug\net7.0\WareHouse.Infrastructure.pdb
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\WareHouse.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\WareHouse.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\WareHouse.Infrastructure.AssemblyInfo.cs
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\WareHouse.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\WareHouse.Infrastructure.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\refint\WareHouse.Infrastructure.dll
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\WareHouse.Infrastructure.pdb
+C:\Users\pavka\OneDrive\Documents\Програвиране C#\За училище\WebAppMVC\WareHouse\WareHouse.Infrastructure\obj\Debug\net7.0\ref\WareHouse.Infrastructure.dll

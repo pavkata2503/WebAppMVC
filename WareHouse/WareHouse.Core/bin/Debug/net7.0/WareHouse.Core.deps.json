@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WareHouse.Core/1.0.0": {
+        "dependencies": {
+          "WareHouse.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "WareHouse.Core.dll": {}
+        }
+      },
+      "WareHouse.Infrastructure/1.0.0": {
+        "runtime": {
+          "WareHouse.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WareHouse.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WareHouse.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
