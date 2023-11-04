@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using WareHouse.Core.Constants;
 using WareHouse.Models;
 
 namespace WareHouse.Controllers
@@ -15,6 +16,7 @@ namespace WareHouse.Controllers
 
         public IActionResult Index()
         {
+            ViewData[MessageConstant.ErrorMessage] = "Нещо се счупи";
             return View();
         }
 
